@@ -8,6 +8,7 @@ Done | Title | Year | Genre
 [ ] | A Clockwork Orange                      | 1971 | Drama/Mystery
 [ ] | A Shot in the Dark                      | 1964 | Parody film/Mystery
 [x] | Airplane                                | 1980 | Parody film/Disaster Film
+[x] | Alien                                   | 1979 | Fantasy/Mystery
 [x] | Aliens                                  | 1986 | Thriller/Fantasy
 [ ] | American Pie 1                          | 1999 | Romance/Comedy
 [ ] | American Pie 2                          | 2001 | Romance/Comedy
@@ -54,7 +55,7 @@ Done | Title | Year | Genre
 [ ] | S.O.B.                                  | 1981 | Drama/Comedy
 [x] | Silence of the Lambs                    | 1991 | Drama/Mystery
 [x] | Spaceballs                              | 1987 | Fantasy/Parody film
-[x] | Stand By Me                             | 2017 | Drama/Comedy
+[x] | Stand By Me                             | 1986 | Drama/Comedy
 [x] | Star Trek II: The Wrath of Khan         | 1982 | Action/Adventure
 [x] | Star Trek III: The Search for Spock     | 1984 | Action/Adventure
 [x] | Star Trek IV: The Voyage Home           | 1986 | Action/Adventure
